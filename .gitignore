@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+*.egg-info/
+
+# Environment & Secrets
+.env
+*.pem
+*.key
+
+# Local Data / Storage
+data/raw/
+data/bronze/
+data/silver/
+data/gold/
+data/quarantine/
+*.db
+*.sqlite
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Docker
+.docker/
