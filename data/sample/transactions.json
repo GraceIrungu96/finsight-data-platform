@@ -1,0 +1,902 @@
+[
+  {
+    "transaction_id": "TXN-100001",
+    "account_id": "ACC-1021",
+    "amount": 991.7,
+    "currency": "EUR",
+    "transaction_type": "FEE",
+    "status": "FAILED",
+    "timestamp": "2026-10-05T17:24:34.093786"
+  },
+  {
+    "transaction_id": "TXN-100002",
+    "account_id": "ACC-1001",
+    "amount": 6403.63,
+    "currency": "GBP",
+    "transaction_type": "CARD_PAYMENT",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-05T04:38:38.093786"
+  },
+  {
+    "transaction_id": "TXN-100003",
+    "account_id": "ACC-1021",
+    "amount": 9046.6,
+    "currency": "USD",
+    "transaction_type": "SETTLEMENT",
+    "status": "FAILED",
+    "timestamp": "2026-10-05T17:25:24.093786"
+  },
+  {
+    "transaction_id": "TXN-100004",
+    "account_id": "ACC-1000",
+    "amount": 1776.7,
+    "currency": "EUR",
+    "transaction_type": "WIRE",
+    "status": "PENDING",
+    "timestamp": "2026-10-06T16:03:14.093786"
+  },
+  {
+    "transaction_id": "TXN-100005",
+    "account_id": "ACC-1028",
+    "amount": 679.37,
+    "currency": "GBP",
+    "transaction_type": "ACH",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-04T04:37:27.093786"
+  },
+  {
+    "transaction_id": "TXN-100006",
+    "account_id": "ACC-1044",
+    "amount": 2201.11,
+    "currency": "EUR",
+    "transaction_type": "SETTLEMENT",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-06T02:40:45.093786"
+  },
+  {
+    "transaction_id": "TXN-100007",
+    "account_id": "ACC-1033",
+    "amount": 13863.17,
+    "currency": "USD",
+    "transaction_type": "CARD_PAYMENT",
+    "status": "PENDING",
+    "timestamp": "2026-10-05T02:03:45.093786"
+  },
+  {
+    "transaction_id": "TXN-100008",
+    "account_id": "ACC-1027",
+    "amount": 7783.91,
+    "currency": "GBP",
+    "transaction_type": "CARD_PAYMENT",
+    "status": "FAILED",
+    "timestamp": "2026-10-06T00:10:52.093786"
+  },
+  {
+    "transaction_id": "TXN-100009",
+    "account_id": "ACC-1031",
+    "amount": 6940.83,
+    "currency": "EUR",
+    "transaction_type": "FEE",
+    "status": "FAILED",
+    "timestamp": "2026-10-07T23:58:23.093786"
+  },
+  {
+    "transaction_id": "TXN-100010",
+    "account_id": "ACC-1018",
+    "amount": 1282.24,
+    "currency": "USD",
+    "transaction_type": "SETTLEMENT",
+    "status": "PENDING",
+    "timestamp": "2026-10-07T00:09:21.093786"
+  },
+  {
+    "transaction_id": "TXN-100011",
+    "account_id": "ACC-1042",
+    "amount": 4275.78,
+    "currency": "USD",
+    "transaction_type": "WIRE",
+    "status": "FAILED",
+    "timestamp": "2026-10-04T18:28:21.093786"
+  },
+  {
+    "transaction_id": "TXN-100012",
+    "account_id": "ACC-1030",
+    "amount": 7165.38,
+    "currency": "GBP",
+    "transaction_type": "SETTLEMENT",
+    "status": "FAILED",
+    "timestamp": "2026-10-04T15:32:08.093786"
+  },
+  {
+    "transaction_id": "TXN-100013",
+    "account_id": "ACC-1034",
+    "amount": 4896.83,
+    "currency": "GBP",
+    "transaction_type": "FEE",
+    "status": "FAILED",
+    "timestamp": "2026-10-03T12:48:50.093786"
+  },
+  {
+    "transaction_id": "TXN-100014",
+    "account_id": "ACC-1026",
+    "amount": 10657.01,
+    "currency": "EUR",
+    "transaction_type": "FEE",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-02T10:26:45.093786"
+  },
+  {
+    "transaction_id": "TXN-100015",
+    "account_id": "ACC-1048",
+    "amount": 3474.65,
+    "currency": "USD",
+    "transaction_type": "WIRE",
+    "status": "PENDING",
+    "timestamp": "2026-10-04T06:49:36.093786"
+  },
+  {
+    "transaction_id": "TXN-100016",
+    "account_id": "ACC-1036",
+    "amount": 2002.26,
+    "currency": "USD",
+    "transaction_type": "FEE",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-03T15:44:37.093786"
+  },
+  {
+    "transaction_id": "TXN-100017",
+    "account_id": "ACC-1035",
+    "amount": 12777.4,
+    "currency": "EUR",
+    "transaction_type": "SETTLEMENT",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-04T00:35:25.093786"
+  },
+  {
+    "transaction_id": "TXN-100018",
+    "account_id": "ACC-1045",
+    "amount": 11212.09,
+    "currency": "GBP",
+    "transaction_type": "SETTLEMENT",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-04T21:04:07.093786"
+  },
+  {
+    "transaction_id": "TXN-100019",
+    "account_id": "ACC-1043",
+    "amount": 2267.6,
+    "currency": "EUR",
+    "transaction_type": "SETTLEMENT",
+    "status": "FAILED",
+    "timestamp": "2026-10-03T15:57:17.093786"
+  },
+  {
+    "transaction_id": "TXN-100020",
+    "account_id": "ACC-1004",
+    "amount": 14447.72,
+    "currency": "USD",
+    "transaction_type": "WIRE",
+    "status": "PENDING",
+    "timestamp": "2026-10-08T10:47:42.093786"
+  },
+  {
+    "transaction_id": "TXN-100021",
+    "account_id": "ACC-1024",
+    "amount": 7311.64,
+    "currency": "EUR",
+    "transaction_type": "CARD_PAYMENT",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-05T11:59:44.093786"
+  },
+  {
+    "transaction_id": "TXN-100022",
+    "account_id": "ACC-1012",
+    "amount": 9166.03,
+    "currency": "EUR",
+    "transaction_type": "FEE",
+    "status": "PENDING",
+    "timestamp": "2026-10-05T18:16:43.093786"
+  },
+  {
+    "transaction_id": "TXN-100023",
+    "account_id": "ACC-1037",
+    "amount": 14628.58,
+    "currency": "EUR",
+    "transaction_type": "WIRE",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-08T08:50:53.093786"
+  },
+  {
+    "transaction_id": "TXN-100024",
+    "account_id": "ACC-1013",
+    "amount": 7934.82,
+    "currency": "USD",
+    "transaction_type": "FEE",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-03T04:22:24.093786"
+  },
+  {
+    "transaction_id": "TXN-100025",
+    "account_id": "ACC-1034",
+    "amount": 18.85,
+    "currency": "EUR",
+    "transaction_type": "CARD_PAYMENT",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-07T20:05:28.093786"
+  },
+  {
+    "transaction_id": "TXN-100026",
+    "account_id": "ACC-1010",
+    "amount": 5257.32,
+    "currency": "USD",
+    "transaction_type": "ACH",
+    "status": "FAILED",
+    "timestamp": "2026-10-05T04:35:02.093786"
+  },
+  {
+    "transaction_id": "TXN-100027",
+    "account_id": "ACC-1028",
+    "amount": 12049.75,
+    "currency": "GBP",
+    "transaction_type": "WIRE",
+    "status": "PENDING",
+    "timestamp": "2026-10-03T04:31:55.093786"
+  },
+  {
+    "transaction_id": "TXN-100028",
+    "account_id": "ACC-1034",
+    "amount": 11600.36,
+    "currency": "EUR",
+    "transaction_type": "SETTLEMENT",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-02T05:21:31.093786"
+  },
+  {
+    "transaction_id": "TXN-100029",
+    "account_id": "ACC-1026",
+    "amount": 4397.11,
+    "currency": "EUR",
+    "transaction_type": "ACH",
+    "status": "FAILED",
+    "timestamp": "2026-10-05T21:45:39.093786"
+  },
+  {
+    "transaction_id": "TXN-100030",
+    "account_id": "ACC-1037",
+    "amount": 7424.91,
+    "currency": "EUR",
+    "transaction_type": "FEE",
+    "status": "PENDING",
+    "timestamp": "2026-10-07T00:19:51.093786"
+  },
+  {
+    "transaction_id": "TXN-100031",
+    "account_id": "ACC-1047",
+    "amount": 7807.53,
+    "currency": "GBP",
+    "transaction_type": "SETTLEMENT",
+    "status": "FAILED",
+    "timestamp": "2026-10-07T09:16:10.093786"
+  },
+  {
+    "transaction_id": "TXN-100032",
+    "account_id": "ACC-1044",
+    "amount": 286.63,
+    "currency": "GBP",
+    "transaction_type": "ACH",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-04T09:16:44.093786"
+  },
+  {
+    "transaction_id": "TXN-100033",
+    "account_id": "ACC-1008",
+    "amount": 3673.18,
+    "currency": "GBP",
+    "transaction_type": "FEE",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-02T09:06:05.093786"
+  },
+  {
+    "transaction_id": "TXN-100034",
+    "account_id": "ACC-1011",
+    "amount": 5103.07,
+    "currency": "EUR",
+    "transaction_type": "WIRE",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-01T15:08:26.093786"
+  },
+  {
+    "transaction_id": "TXN-100035",
+    "account_id": "ACC-1030",
+    "amount": 11977.08,
+    "currency": "GBP",
+    "transaction_type": "CARD_PAYMENT",
+    "status": "PENDING",
+    "timestamp": "2026-10-03T04:49:31.093786"
+  },
+  {
+    "transaction_id": "TXN-100036",
+    "account_id": "ACC-1021",
+    "amount": 11011.58,
+    "currency": "USD",
+    "transaction_type": "CARD_PAYMENT",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-04T04:40:34.093786"
+  },
+  {
+    "transaction_id": "TXN-100037",
+    "account_id": "ACC-1006",
+    "amount": 4500.46,
+    "currency": "GBP",
+    "transaction_type": "FEE",
+    "status": "FAILED",
+    "timestamp": "2026-10-05T03:33:58.093786"
+  },
+  {
+    "transaction_id": "TXN-100038",
+    "account_id": "ACC-1044",
+    "amount": 4222.48,
+    "currency": "USD",
+    "transaction_type": "CARD_PAYMENT",
+    "status": "FAILED",
+    "timestamp": "2026-10-06T10:22:24.093786"
+  },
+  {
+    "transaction_id": "TXN-100039",
+    "account_id": "ACC-1022",
+    "amount": 14130.15,
+    "currency": "EUR",
+    "transaction_type": "FEE",
+    "status": "PENDING",
+    "timestamp": "2026-10-03T06:54:19.093786"
+  },
+  {
+    "transaction_id": "TXN-100040",
+    "account_id": "ACC-1029",
+    "amount": 14494.72,
+    "currency": "EUR",
+    "transaction_type": "CARD_PAYMENT",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-02T13:11:45.093786"
+  },
+  {
+    "transaction_id": "TXN-100041",
+    "account_id": "ACC-1043",
+    "amount": 7015.98,
+    "currency": "EUR",
+    "transaction_type": "WIRE",
+    "status": "FAILED",
+    "timestamp": "2026-10-01T15:23:05.093786"
+  },
+  {
+    "transaction_id": "TXN-100042",
+    "account_id": "ACC-1005",
+    "amount": 156.66,
+    "currency": "GBP",
+    "transaction_type": "SETTLEMENT",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-06T08:20:52.093786"
+  },
+  {
+    "transaction_id": "TXN-100043",
+    "account_id": "ACC-1038",
+    "amount": 9164.47,
+    "currency": "USD",
+    "transaction_type": "ACH",
+    "status": "FAILED",
+    "timestamp": "2026-10-01T23:07:45.093786"
+  },
+  {
+    "transaction_id": "TXN-100044",
+    "account_id": "ACC-1049",
+    "amount": 387.91,
+    "currency": "EUR",
+    "transaction_type": "WIRE",
+    "status": "PENDING",
+    "timestamp": "2026-10-06T00:04:13.093786"
+  },
+  {
+    "transaction_id": "TXN-100045",
+    "account_id": "ACC-1027",
+    "amount": 6053.49,
+    "currency": "GBP",
+    "transaction_type": "WIRE",
+    "status": "FAILED",
+    "timestamp": "2026-10-02T00:24:44.093786"
+  },
+  {
+    "transaction_id": "TXN-100046",
+    "account_id": "ACC-1038",
+    "amount": 11305.78,
+    "currency": "GBP",
+    "transaction_type": "SETTLEMENT",
+    "status": "FAILED",
+    "timestamp": "2026-10-02T21:10:43.093786"
+  },
+  {
+    "transaction_id": "TXN-100047",
+    "account_id": "ACC-1017",
+    "amount": 12430.08,
+    "currency": "EUR",
+    "transaction_type": "SETTLEMENT",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-05T12:02:54.093786"
+  },
+  {
+    "transaction_id": "TXN-100048",
+    "account_id": "ACC-1047",
+    "amount": 7717.8,
+    "currency": "GBP",
+    "transaction_type": "FEE",
+    "status": "FAILED",
+    "timestamp": "2026-10-06T04:38:50.093786"
+  },
+  {
+    "transaction_id": "TXN-100049",
+    "account_id": "ACC-1044",
+    "amount": 13267.49,
+    "currency": "EUR",
+    "transaction_type": "ACH",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-01T20:18:01.093786"
+  },
+  {
+    "transaction_id": "TXN-100050",
+    "account_id": "ACC-1041",
+    "amount": 8191.65,
+    "currency": "GBP",
+    "transaction_type": "ACH",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-08T00:03:57.093786"
+  },
+  {
+    "transaction_id": "TXN-100051",
+    "account_id": "ACC-1015",
+    "amount": 7688.01,
+    "currency": "USD",
+    "transaction_type": "FEE",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-08T09:30:54.093786"
+  },
+  {
+    "transaction_id": "TXN-100052",
+    "account_id": "ACC-1029",
+    "amount": 8823.13,
+    "currency": "GBP",
+    "transaction_type": "CARD_PAYMENT",
+    "status": "PENDING",
+    "timestamp": "2026-10-05T13:29:15.093786"
+  },
+  {
+    "transaction_id": "TXN-100053",
+    "account_id": "ACC-1023",
+    "amount": 2133.49,
+    "currency": "EUR",
+    "transaction_type": "CARD_PAYMENT",
+    "status": "PENDING",
+    "timestamp": "2026-10-03T10:43:00.093786"
+  },
+  {
+    "transaction_id": "TXN-100054",
+    "account_id": "ACC-1003",
+    "amount": 7925.13,
+    "currency": "GBP",
+    "transaction_type": "WIRE",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-07T05:29:30.093786"
+  },
+  {
+    "transaction_id": "TXN-100055",
+    "account_id": "ACC-1003",
+    "amount": 796.6,
+    "currency": "USD",
+    "transaction_type": "CARD_PAYMENT",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-03T04:28:32.093786"
+  },
+  {
+    "transaction_id": "TXN-100056",
+    "account_id": "ACC-1032",
+    "amount": 10702.52,
+    "currency": "EUR",
+    "transaction_type": "SETTLEMENT",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-05T05:01:08.093786"
+  },
+  {
+    "transaction_id": "TXN-100057",
+    "account_id": "ACC-1022",
+    "amount": 12974.79,
+    "currency": "EUR",
+    "transaction_type": "FEE",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-01T18:49:07.093786"
+  },
+  {
+    "transaction_id": "TXN-100058",
+    "account_id": "ACC-1042",
+    "amount": 4322.84,
+    "currency": "USD",
+    "transaction_type": "ACH",
+    "status": "PENDING",
+    "timestamp": "2026-10-06T14:01:06.093786"
+  },
+  {
+    "transaction_id": "TXN-100059",
+    "account_id": "ACC-1040",
+    "amount": 12841.01,
+    "currency": "EUR",
+    "transaction_type": "FEE",
+    "status": "PENDING",
+    "timestamp": "2026-10-07T16:00:01.093786"
+  },
+  {
+    "transaction_id": "TXN-100060",
+    "account_id": "ACC-1024",
+    "amount": 5367.12,
+    "currency": "GBP",
+    "transaction_type": "FEE",
+    "status": "FAILED",
+    "timestamp": "2026-10-03T17:44:37.093786"
+  },
+  {
+    "transaction_id": "TXN-100061",
+    "account_id": "ACC-1000",
+    "amount": 2181.36,
+    "currency": "USD",
+    "transaction_type": "SETTLEMENT",
+    "status": "PENDING",
+    "timestamp": "2026-10-04T23:00:51.093786"
+  },
+  {
+    "transaction_id": "TXN-100062",
+    "account_id": "ACC-1042",
+    "amount": 13088.92,
+    "currency": "EUR",
+    "transaction_type": "CARD_PAYMENT",
+    "status": "FAILED",
+    "timestamp": "2026-10-07T12:05:44.093786"
+  },
+  {
+    "transaction_id": "TXN-100063",
+    "account_id": "ACC-1047",
+    "amount": 10574.55,
+    "currency": "GBP",
+    "transaction_type": "WIRE",
+    "status": "FAILED",
+    "timestamp": "2026-10-03T13:06:36.093786"
+  },
+  {
+    "transaction_id": "TXN-100064",
+    "account_id": "ACC-1018",
+    "amount": 6939.37,
+    "currency": "EUR",
+    "transaction_type": "CARD_PAYMENT",
+    "status": "FAILED",
+    "timestamp": "2026-10-02T23:14:59.093786"
+  },
+  {
+    "transaction_id": "TXN-100065",
+    "account_id": "ACC-1048",
+    "amount": 2861.1,
+    "currency": "GBP",
+    "transaction_type": "CARD_PAYMENT",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-05T21:47:07.093786"
+  },
+  {
+    "transaction_id": "TXN-100066",
+    "account_id": "ACC-1011",
+    "amount": 9673.96,
+    "currency": "EUR",
+    "transaction_type": "CARD_PAYMENT",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-01T23:08:41.093786"
+  },
+  {
+    "transaction_id": "TXN-100067",
+    "account_id": "ACC-1036",
+    "amount": 7327.05,
+    "currency": "EUR",
+    "transaction_type": "WIRE",
+    "status": "FAILED",
+    "timestamp": "2026-10-05T14:00:41.093786"
+  },
+  {
+    "transaction_id": "TXN-100068",
+    "account_id": "ACC-1041",
+    "amount": 8599.32,
+    "currency": "USD",
+    "transaction_type": "WIRE",
+    "status": "PENDING",
+    "timestamp": "2026-10-03T02:41:51.093786"
+  },
+  {
+    "transaction_id": "TXN-100069",
+    "account_id": "ACC-1015",
+    "amount": 4785.09,
+    "currency": "USD",
+    "transaction_type": "WIRE",
+    "status": "FAILED",
+    "timestamp": "2026-10-03T21:02:18.093786"
+  },
+  {
+    "transaction_id": "TXN-100070",
+    "account_id": "ACC-1039",
+    "amount": 3679.57,
+    "currency": "GBP",
+    "transaction_type": "WIRE",
+    "status": "PENDING",
+    "timestamp": "2026-10-02T00:51:42.093786"
+  },
+  {
+    "transaction_id": "TXN-100071",
+    "account_id": "ACC-1017",
+    "amount": 11157.97,
+    "currency": "EUR",
+    "transaction_type": "FEE",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-02T15:34:08.093786"
+  },
+  {
+    "transaction_id": "TXN-100072",
+    "account_id": "ACC-1030",
+    "amount": 7329.63,
+    "currency": "USD",
+    "transaction_type": "ACH",
+    "status": "PENDING",
+    "timestamp": "2026-10-05T22:03:24.093786"
+  },
+  {
+    "transaction_id": "TXN-100073",
+    "account_id": "ACC-1050",
+    "amount": 7906.46,
+    "currency": "USD",
+    "transaction_type": "WIRE",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-02T09:26:18.093786"
+  },
+  {
+    "transaction_id": "TXN-100074",
+    "account_id": "ACC-1030",
+    "amount": 11826.8,
+    "currency": "USD",
+    "transaction_type": "WIRE",
+    "status": "PENDING",
+    "timestamp": "2026-10-06T07:05:41.093786"
+  },
+  {
+    "transaction_id": "TXN-100075",
+    "account_id": "ACC-1028",
+    "amount": 6849.67,
+    "currency": "USD",
+    "transaction_type": "SETTLEMENT",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-07T10:21:02.093786"
+  },
+  {
+    "transaction_id": "TXN-100076",
+    "account_id": "ACC-1028",
+    "amount": 7955.65,
+    "currency": "EUR",
+    "transaction_type": "SETTLEMENT",
+    "status": "PENDING",
+    "timestamp": "2026-10-02T13:47:25.093786"
+  },
+  {
+    "transaction_id": "TXN-100077",
+    "account_id": "ACC-1020",
+    "amount": 1214.04,
+    "currency": "GBP",
+    "transaction_type": "CARD_PAYMENT",
+    "status": "PENDING",
+    "timestamp": "2026-10-05T20:39:20.093786"
+  },
+  {
+    "transaction_id": "TXN-100078",
+    "account_id": "ACC-1011",
+    "amount": 5709.43,
+    "currency": "EUR",
+    "transaction_type": "FEE",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-03T10:31:33.093786"
+  },
+  {
+    "transaction_id": "TXN-100079",
+    "account_id": "ACC-1008",
+    "amount": 11307.72,
+    "currency": "EUR",
+    "transaction_type": "WIRE",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-03T09:12:54.093786"
+  },
+  {
+    "transaction_id": "TXN-100080",
+    "account_id": "ACC-1050",
+    "amount": 5325.97,
+    "currency": "EUR",
+    "transaction_type": "CARD_PAYMENT",
+    "status": "FAILED",
+    "timestamp": "2026-10-05T02:28:00.093786"
+  },
+  {
+    "transaction_id": "TXN-100081",
+    "account_id": "ACC-1025",
+    "amount": 13910.87,
+    "currency": "EUR",
+    "transaction_type": "ACH",
+    "status": "PENDING",
+    "timestamp": "2026-10-06T03:03:28.093786"
+  },
+  {
+    "transaction_id": "TXN-100082",
+    "account_id": "ACC-1044",
+    "amount": 5994.8,
+    "currency": "EUR",
+    "transaction_type": "CARD_PAYMENT",
+    "status": "PENDING",
+    "timestamp": "2026-10-02T14:36:26.093786"
+  },
+  {
+    "transaction_id": "TXN-100083",
+    "account_id": "ACC-1035",
+    "amount": 267.99,
+    "currency": "EUR",
+    "transaction_type": "SETTLEMENT",
+    "status": "FAILED",
+    "timestamp": "2026-10-02T10:53:53.093786"
+  },
+  {
+    "transaction_id": "TXN-100084",
+    "account_id": "ACC-1001",
+    "amount": 14928.51,
+    "currency": "USD",
+    "transaction_type": "CARD_PAYMENT",
+    "status": "PENDING",
+    "timestamp": "2026-10-02T10:56:41.093786"
+  },
+  {
+    "transaction_id": "TXN-100085",
+    "account_id": "ACC-1006",
+    "amount": 5644.27,
+    "currency": "EUR",
+    "transaction_type": "CARD_PAYMENT",
+    "status": "PENDING",
+    "timestamp": "2026-10-02T06:45:43.093786"
+  },
+  {
+    "transaction_id": "TXN-100086",
+    "account_id": "ACC-1004",
+    "amount": 10532.59,
+    "currency": "GBP",
+    "transaction_type": "SETTLEMENT",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-04T11:24:21.093786"
+  },
+  {
+    "transaction_id": "TXN-100087",
+    "account_id": "ACC-1003",
+    "amount": 9191.31,
+    "currency": "USD",
+    "transaction_type": "SETTLEMENT",
+    "status": "PENDING",
+    "timestamp": "2026-10-05T11:34:51.093786"
+  },
+  {
+    "transaction_id": "TXN-100088",
+    "account_id": "ACC-1031",
+    "amount": 12308.21,
+    "currency": "USD",
+    "transaction_type": "SETTLEMENT",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-03T06:28:22.093786"
+  },
+  {
+    "transaction_id": "TXN-100089",
+    "account_id": "ACC-1022",
+    "amount": 13989.28,
+    "currency": "GBP",
+    "transaction_type": "CARD_PAYMENT",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-06T01:51:14.093786"
+  },
+  {
+    "transaction_id": "TXN-100090",
+    "account_id": "ACC-1023",
+    "amount": 298.16,
+    "currency": "USD",
+    "transaction_type": "WIRE",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-06T06:03:47.093786"
+  },
+  {
+    "transaction_id": "TXN-100091",
+    "account_id": "ACC-1008",
+    "amount": 8351.95,
+    "currency": "GBP",
+    "transaction_type": "SETTLEMENT",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-07T10:29:17.093786"
+  },
+  {
+    "transaction_id": "TXN-100092",
+    "account_id": "ACC-1003",
+    "amount": 1973.84,
+    "currency": "EUR",
+    "transaction_type": "ACH",
+    "status": "FAILED",
+    "timestamp": "2026-10-03T06:26:09.093786"
+  },
+  {
+    "transaction_id": "TXN-100093",
+    "account_id": "ACC-1041",
+    "amount": 3668.86,
+    "currency": "EUR",
+    "transaction_type": "FEE",
+    "status": "PENDING",
+    "timestamp": "2026-10-02T17:06:42.093786"
+  },
+  {
+    "transaction_id": "TXN-100094",
+    "account_id": "ACC-1018",
+    "amount": 12091.85,
+    "currency": "EUR",
+    "transaction_type": "WIRE",
+    "status": "FAILED",
+    "timestamp": "2026-10-07T18:46:28.093786"
+  },
+  {
+    "transaction_id": "TXN-100095",
+    "account_id": "ACC-1001",
+    "amount": 6060.92,
+    "currency": "USD",
+    "transaction_type": "WIRE",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-06T19:14:30.093786"
+  },
+  {
+    "transaction_id": "TXN-100096",
+    "account_id": "ACC-1021",
+    "amount": 5213.38,
+    "currency": "GBP",
+    "transaction_type": "WIRE",
+    "status": "COMPLETED",
+    "timestamp": "2026-10-05T01:02:46.093786"
+  },
+  {
+    "transaction_id": "TXN-100097",
+    "account_id": "ACC-1015",
+    "amount": 10695.08,
+    "currency": "EUR",
+    "transaction_type": "FEE",
+    "status": "PENDING",
+    "timestamp": "2026-10-04T22:01:39.093786"
+  },
+  {
+    "transaction_id": "TXN-100098",
+    "account_id": "ACC-1012",
+    "amount": 11380.22,
+    "currency": "GBP",
+    "transaction_type": "FEE",
+    "status": "PENDING",
+    "timestamp": "2026-10-01T15:08:08.093786"
+  },
+  {
+    "transaction_id": "TXN-100099",
+    "account_id": "ACC-1018",
+    "amount": 1866.16,
+    "currency": "GBP",
+    "transaction_type": "FEE",
+    "status": "PENDING",
+    "timestamp": "2026-10-02T07:44:47.093786"
+  },
+  {
+    "transaction_id": "TXN-100100",
+    "account_id": "ACC-1008",
+    "amount": 13868.57,
+    "currency": "EUR",
+    "transaction_type": "FEE",
+    "status": "FAILED",
+    "timestamp": "2026-10-05T10:55:23.093786"
+  }
+]

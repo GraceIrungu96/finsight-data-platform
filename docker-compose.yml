@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15-alpine
+    container_name: finsight-postgres
+    restart: always
+    environment:
+      POSTGRES_USER: finsight_user
+      POSTGRES_PASSWORD: finsight_password
+      POSTGRES_DB: finsight_db
+    ports:
+      - "5433:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./infra/postgres/init.sql:/docker-entrypoint-initdb.d/init.sql
+
+volumes:
+  pgdata:
